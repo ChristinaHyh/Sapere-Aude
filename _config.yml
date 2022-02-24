@@ -2,11 +2,11 @@
 # ============================================================================
 # if your site is serving on https://xxx.github.io, set `baseurl: /`
 # if your site is serving on https://xxx.github.io/path, set `baseurl: /path`
-baseurl: '/Sapere-Aude'
+baseurl: ''
 
 # site title
 title: SapereAude
-# url: 'https://huangyahui.com'
+url: 'https://huangyahui.com'
 
 # site favicon, absolute path required
 favicon: /assets/img/favicon.ico
